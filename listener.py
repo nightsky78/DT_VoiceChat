@@ -35,6 +35,7 @@ def record(recog, source):
     
     return text
 
+# Method to start the conversation returning the response as text.
 def conversation(text):
     # Send text to ChatGPT using the OpenAI API
     global messages
