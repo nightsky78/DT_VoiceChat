@@ -12,11 +12,12 @@ With the activation-word "Computer" the progamm listens to your voice. Then you 
 2. Before you can execute look into the import and download the modules with PIP. I might add a requirement.txt later, but until then you might be required to google the dependencies if some module is missing for you.
 
 3. Create a file mygptkey.py with the following content:
+'''
 def return_key():
     mykey = 'YOUR_KEY'
     return mykey
- 
- Your ChatGPT key you need to get from the openai website. 
+'''
+    Your ChatGPT key you need to get from the openai website. 
 
 4. Execute the listener python file with "python3 listener.py".
 
