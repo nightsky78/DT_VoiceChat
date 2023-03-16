@@ -1,7 +1,10 @@
 # DT_VoiceChat
 
 ## Purpose
-Inspired by Star Trek and a YouTube Video by Part Time Larry (https://www.youtube.com/watch?v=Si0vFx_dJ5Y&list=WL&index=18) I create a short python file which adds a voice frontend to ChatGPT. 
+Inspired by Star Trek and a YouTube Video by Part Time Larry (https://www.youtube.com/watch?v=Si0vFx_dJ5Y&list=WL&index=18) I create a short python file which adds a voice frontend to ChatGPT.
+
+## Usage
+With the activation-word "Computer" the progamm listens to your voice. Then you can interact with ChatGPT. If your want to finish the conversation, say "conversation end". The programm is then again waiting for the activation-word. To end the program you can then say "program end".
 
 ## Installation
 1. Just clone the repo onto your computer. 
